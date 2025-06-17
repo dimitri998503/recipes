@@ -3,4 +3,5 @@
 -Spring onions (3)
 -potato (4)
 # Instructions
-put peas into a pan
+-put peas into a pan
+-add cold water and soak
