@@ -1,0 +1,8 @@
+*.png
+receipts/*
+receipts/data/market_position/*.dat
+
+#considering all files in the repository, exclude documents that end in .dat
+**/*.dat
+!final.png
+!receipts/data
